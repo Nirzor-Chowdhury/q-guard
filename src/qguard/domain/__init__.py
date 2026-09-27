@@ -1,0 +1,1 @@
+"""Q-Guard domain types."""
